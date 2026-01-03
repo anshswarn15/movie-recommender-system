@@ -2,4 +2,4 @@ myenv/
 __pycache__/
 *.pyc
 tempCodeRunnerFile.py
-.env
+.envsimilarity.pkl
